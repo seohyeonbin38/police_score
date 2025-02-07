@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import openpyxl
 
 # 🔹 1. 데이터 불러오기
 file_path = "경찰테스트_결과.xlsx"
